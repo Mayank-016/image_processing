@@ -13,8 +13,8 @@ This Node.js application processes SKU data from CSV files, compresses images, a
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Mayank-016/image_processing.git
+   cd image_processing
    ```
 
 2. **Install Dependencies**
@@ -126,7 +126,7 @@ This Node.js application processes SKU data from CSV files, compresses images, a
 2. **Run the Application:**
 
    ```bash
-   npm start
+   npm run dev/prod
    ```
 
 3. **Access the API:**
