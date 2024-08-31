@@ -13,4 +13,9 @@ import { apiRouter } from './routes/api.routes.js';
 // use routes
 app.use('/api/v1', apiRouter);
 
+// Default home route
+app.get('/', (req, res) => {
+    res.send('Hello, World!');
+});
+
 export { app };
