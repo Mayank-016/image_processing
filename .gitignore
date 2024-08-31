@@ -118,4 +118,3 @@ dist
 .pnp.*
 
 # public folder for temp files
-public/temp/*
