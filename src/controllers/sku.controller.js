@@ -1,5 +1,5 @@
 import HTTP from "../constants/http-status-codes.js";
-import { asyncHandler } from "../utils/asyncHandler.js";
+import { asyncHandler } from "../utils/AsyncHandler.js";
 import { ApiResponse } from "../utils/ApiResponse.js";
 import { Sku } from "../models/sku.model.js";
 import { Order } from "../models/order.model.js";
