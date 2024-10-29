@@ -132,3 +132,8 @@ This Node.js application processes SKU data from CSV files, compresses images, a
 3. **Access the API:**
 
    The application will be available at `http://localhost:8000`.
+
+## Postman Collection
+```bash
+https://www.postman.com/science-participant-50153919/workspace/api-collections/collection/27419417-ae18bb9c-6e1b-4f31-84b7-c3d2a974d6cb?action=share&creator=27419417
+```
